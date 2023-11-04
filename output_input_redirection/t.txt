@@ -1,0 +1,149 @@
+-rwxr-xr-x 1 root    root       39296 mar 23  2022 bunzip2
+-rwxr-xr-x 1 root    root       39296 mar 23  2022 bzcat
+lrwxrwxrwx 1 root    root           6 ago  2 04:45 bzcmp -> bzdiff
+-rwxr-xr-x 1 root    root        2225 mar 23  2022 bzdiff
+lrwxrwxrwx 1 root    root           6 ago  2 04:45 bzegrep -> bzgrep
+-rwxr-xr-x 1 root    root        4893 nov 27  2021 bzexe
+lrwxrwxrwx 1 root    root           6 ago  2 04:45 bzfgrep -> bzgrep
+-rwxr-xr-x 1 root    root        3775 mar 23  2022 bzgrep
+-rwxr-xr-x 1 root    root       39296 mar 23  2022 bzip2
+-rwxr-xr-x 1 root    root       14640 mar 23  2022 bzip2recover
+lrwxrwxrwx 1 root    root           6 ago  2 04:45 bzless -> bzmore
+-rwxr-xr-x 1 root    root        1297 mar 23  2022 bzmore
+-rwxr-xr-x 1 root    root         853 dez 10  2021 cautious-launcher
+-rwxr-xr-x 1 root    root         965 dez 30  2020 chardetect
+-rwxr-xr-x 1 root    root        2771 dez 28  2022 check-language-support
+-rwxr-xr-x 1 root    root       14568 dez 16  2022 chvt
+-rwxr-xr-x 1 root    root       14488 dez 16  2022 codepage
+-rwxr-xr-x 1 root    root       14568 dez 16  2022 deallocvt
+-rwxr-xr-x 1 root    root       21394 dez  7  2021 deb-systemd-helper
+-rwxr-xr-x 1 root    root      162520 dez 16  2022 dumpkeys
+-rwxr-xr-x 1 root    root      532200 dez  7  2022 evince
+-rwxr-xr-x 1 root    root       72208 dez  7  2022 evince-previewer
+-rwxr-xr-x 1 root    root       18824 dez  7  2022 evince-thumbnailer
+-rwxr-xr-x 1 root    root       14568 dez 16  2022 fgconsole
+-rwxr-xr-x 1 root    root       44064 mar 20  2023 foo2zjs
+lrwxrwxrwx 1 root    root           5 mar 20  2023 foo2zjs-icc2ps -> psicc
+-rwxr-xr-x 1 root    root        2997 mar 20  2023 foo2zjs-pstops
+-rwxr-xr-x 1 root    root       25952 mar 20  2023 foo2zjs-wrapper
+-rwxr-xr-x 1 root    root       22832 out  7  2022 funzip
+-rwxr-xr-x 1 root    root       14568 dez 16  2022 getkeycodes
+-rwxr-xr-x 1 root    root        1444 dez 28  2022 gnome-language-selector
+-rwxr-xr-x 1 root    root        3516 jul  4  2022 gpg-zip
+-rwxr-xr-x 1 root    root      386000 dez 18  2022 grub-editenv
+-rwxr-xr-x 1 root    root      836048 dez 18  2022 grub-file
+-rwxr-xr-x 1 root    root      960432 dez 18  2022 grub-fstest
+-rwxr-xr-x 1 root    root      253808 dez 18  2022 grub-glue-efi
+-rwxr-xr-x 1 root    root        1681 dez 18  2022 grub-kbdcomp
+-rwxr-xr-x 1 root    root      233600 dez 18  2022 grub-menulst2cfg
+-rwxr-xr-x 1 root    root      278960 dez 18  2022 grub-mkfont
+-rwxr-xr-x 1 root    root      369712 dez 18  2022 grub-mkimage
+-rwxr-xr-x 1 root    root      258224 dez 18  2022 grub-mklayout
+-rwxr-xr-x 1 root    root      427680 dez 18  2022 grub-mknetdir
+-rwxr-xr-x 1 root    root      262352 dez 18  2022 grub-mkpasswd-pbkdf2
+-rwxr-xr-x 1 root    root      253520 dez 18  2022 grub-mkrelpath
+-rwxr-xr-x 1 root    root     1022432 dez 18  2022 grub-mkrescue
+-rwxr-xr-x 1 root    root      505808 dez 18  2022 grub-mkstandalone
+-rwxr-xr-x 1 root    root      779104 dez 18  2022 grub-mount
+lrwxrwxrwx 1 root    root          34 dez 18  2022 grub-ntldr-img -> ../lib/grub/i386-pc/grub-ntldr-img
+-rwxr-xr-x 1 root    root      848720 dez 18  2022 grub-render-label
+-rwxr-xr-x 1 root    root      282320 dez 18  2022 grub-script-check
+-rwxr-xr-x 1 root    root      800096 dez 18  2022 grub-syslinux2cfg
+-rwxr-xr-x 1 root    root        1972 dez 20  2021 guix
+-rwxr-xr-x 1 root    root      678608 dez 20  2021 guix-daemon
+-rwxr-xr-x 1 root    root        2346 set  5  2022 gunzip
+-rwxr-xr-x 1 root    root        6447 set  5  2022 gzexe
+-rwxr-xr-x 1 root    root       93424 set  5  2022 gzip
+-rwxr-xr-x 1 root    root        2514 jan  3  2022 helpztags
+-rwxr-xr-x 1 root    root       10830 dez  1  2022 hwe-support-status
+-rwxr-xr-x 1 root    root        1798 dez 18  2020 im-launch
+-rwxr-xr-x 1 root    root        7222 dez  2  2021 ispell-wrapper
+-rwxr-xr-x 1 root    root       18664 dez 16  2022 kbdinfo
+-rwxr-xr-x 1 root    root       14872 dez 16  2022 kbd_mode
+-rwxr-xr-x 1 root    root        9047 dez 28  2021 lesspipe
+-rwxr-xr-x 1 root    root      203528 dez 16  2022 loadkeys
+-rwxr-xr-x 1 root    root       31048 dez 16  2022 loadunimap
+lrwxrwxrwx 1 root    root          23 ago  2 04:45 lzcat -> /etc/alternatives/lzcat
+lrwxrwxrwx 1 root    root          23 ago  2 04:45 lzcmp -> /etc/alternatives/lzcmp
+lrwxrwxrwx 1 root    root          24 ago  2 04:45 lzdiff -> /etc/alternatives/lzdiff
+lrwxrwxrwx 1 root    root          25 ago  2 04:45 lzegrep -> /etc/alternatives/lzegrep
+lrwxrwxrwx 1 root    root          25 ago  2 04:45 lzfgrep -> /etc/alternatives/lzfgrep
+lrwxrwxrwx 1 root    root          24 ago  2 04:45 lzgrep -> /etc/alternatives/lzgrep
+lrwxrwxrwx 1 root    root          24 ago  2 04:45 lzless -> /etc/alternatives/lzless
+lrwxrwxrwx 1 root    root          22 ago  2 04:45 lzma -> /etc/alternatives/lzma
+-rwxr-xr-x 1 root    root       14568 abr  8  2022 lzmainfo
+lrwxrwxrwx 1 root    root          24 ago  2 04:45 lzmore -> /etc/alternatives/lzmore
+-rwxr-xr-x 1 root    root       31048 dez 16  2022 mapscrn
+-rwxr-xr-x 1 root    root        3060 dez 18  2021 migrate-pubring-from-classic-gpg
+-rwxr-xr-x 1 root    root       16163 dez 16  2022 mk_modmap
+-rwxr-xr-x 1 root    root       23128 dez 16  2022 openvt
+-rwxr-xr-x 1 root    root        5656 mar 23  2022 preunzip
+-rwxr-xr-x 1 root    root        5656 mar 23  2022 prezip
+-rwxr-xr-x 1 root    root       14640 mar 23  2022 prezip-bin
+-rwxr-xr-x 1 root    root       26856 dez 16  2022 psfxtable
+-rwxr-xr-x 1 root    root      719328 mar 24  2022 pzstd
+-rwxr-xr-x 1 root    root       26952 dez 16  2022 resizecons
+-rwxr-xr-x 1 root    root       22904 fev 20  2022 resizepart
+-rwxr-xr-x 1 root    root       18491 dez 10  2021 run-mailcap
+-rwxr-xr-x 1 root    root       14488 dez 16  2022 screendump
+-rwxr-xr-x 1 root    root         474 dez  2  2021 select-default-iwrap
+-rwxr-xr-x 1 root    root       51528 dez 16  2022 setfont
+-rwxr-xr-x 1 root    root       14568 dez 16  2022 setkeycodes
+-rwxr-xr-x 1 root    root       18648 dez 16  2022 setleds
+-rwxr-xr-x 1 root    root       14568 dez 16  2022 setlogcons
+-rwxr-xr-x 1 root    root       14600 dez 16  2022 setmetamode
+-rwxr-xr-x 1 root    root       18664 dez 16  2022 showconsolefont
+-rwxr-xr-x 1 root    root       18664 dez 16  2022 showkey
+lrwxrwxrwx 1 root    root          21 jun  4 03:49 size -> x86_64-linux-gnu-size
+-rwxr-xr-x 1 root    root       14488 dez 16  2022 splitfont
+-rwxr-xr-x 1 root    root        7941 mai 23 14:18 streamzip
+-rwxr-xr-x 1 root    root     1809160 ago 21 18:11 systemd-analyze
+-rwxr-xr-x 1 root    root       15378 set 25 11:45 tzselect
+-rwxr-xr-x 1 root    root       22783 dez  1  2022 ubuntu-security-status
+-rwxr-xr-x 1 root    root        2762 dez 16  2022 unicode_start
+-rwxr-xr-x 1 root    root         530 dez 16  2022 unicode_stop
+lrwxrwxrwx 1 root    root          24 ago  2 04:45 unlzma -> /etc/alternatives/unlzma
+lrwxrwxrwx 1 root    root           2 ago  2 04:45 unxz -> xz
+-rwxr-xr-x 1 root    root      174512 out  7  2022 unzip
+-rwxr-xr-x 1 root    root       80304 out  7  2022 unzipsfx
+lrwxrwxrwx 1 root    root           4 ago  2 04:45 unzstd -> zstd
+-rwxr-xr-x 1 root    root        4771 dez  1  2022 update-manager
+-rwxr-xr-x 1 root    root       31184 jun  4 03:49 x86_64-linux-gnu-size
+-rwxr-xr-x 1 root    root       30896 dez 26  2020 xclip
+-rwxr-xr-x 1 root    root         572 dez 26  2020 xclip-copyfile
+-rwxr-xr-x 1 root    root         389 dez 26  2020 xclip-cutfile
+-rwxr-xr-x 1 root    root         136 dez 26  2020 xclip-pastefile
+-rwxr-xr-x 1 root    root       84504 abr  8  2022 xz
+lrwxrwxrwx 1 root    root           2 ago  2 04:45 xzcat -> xz
+lrwxrwxrwx 1 root    root           6 ago  2 04:45 xzcmp -> xzdiff
+-rwxr-xr-x 1 root    root        7023 abr  8  2022 xzdiff
+lrwxrwxrwx 1 root    root           6 ago  2 04:45 xzegrep -> xzgrep
+lrwxrwxrwx 1 root    root           6 ago  2 04:45 xzfgrep -> xzgrep
+-rwxr-xr-x 1 root    root        6015 abr  8  2022 xzgrep
+-rwxr-xr-x 1 root    root        1799 abr  8  2022 xzless
+-rwxr-xr-x 1 root    root        2162 abr  8  2022 xzmore
+-rwxr-xr-x 1 root    root        1984 set  5  2022 zcat
+-rwxr-xr-x 1 root    root        1678 set  5  2022 zcmp
+-rwxr-xr-x 1 root    root        5898 set  5  2022 zdiff
+-rwxr-xr-x 1 root    root       26840 set 25 11:45 zdump
+-rwxr-xr-x 1 root    root          29 set  5  2022 zegrep
+-rwxr-xr-x 1 root    root      131840 mai  1  2022 zenity
+-rwxr-xr-x 1 root    root          29 set  5  2022 zfgrep
+-rwxr-xr-x 1 root    root        2081 set  5  2022 zforce
+-rwxr-xr-x 1 root    root        8103 set  5  2022 zgrep
+-rwxr-xr-x 1 root    root      203768 mar 25  2022 zip
+-rwxr-xr-x 1 root    root       72088 mar 25  2022 zipcloak
+-rwxr-xr-x 1 root    root       60065 mai 23 14:18 zipdetails
+-rwxr-xr-x 1 root    root        2959 out  7  2022 zipgrep
+-rwxr-xr-x 1 root    root      174512 out  7  2022 zipinfo
+-rwxr-xr-x 1 root    root       63896 mar 25  2022 zipnote
+-rwxr-xr-x 1 root    root       59800 mar 25  2022 zipsplit
+-rwxr-xr-x 1 root    root       26952 mar 20  2023 zjsdecode
+-rwxr-xr-x 1 root    root        2206 set  5  2022 zless
+-rwxr-xr-x 1 root    root        1842 set  5  2022 zmore
+-rwxr-xr-x 1 root    root        4577 set  5  2022 znew
+-rwxr-xr-x 1 root    root      875096 mar 24  2022 zstd
+lrwxrwxrwx 1 root    root           4 ago  2 04:45 zstdcat -> zstd
+-rwxr-xr-x 1 root    root        3869 mar 24  2022 zstdgrep
+-rwxr-xr-x 1 root    root          30 mar 24  2022 zstdless
+lrwxrwxrwx 1 root    root           4 ago  2 04:45 zstdmt -> zstd
